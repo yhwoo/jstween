@@ -2,7 +2,7 @@
  * VERSION: 0.7.1
  * DATE: 2016-8-17
  * GIT: https://github.com/shrekshrek/jstween
- * @author: Shrek.wang
+ * @author: Shrek.wang2
  **/
 
 (function (factory) {
